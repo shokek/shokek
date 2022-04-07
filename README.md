@@ -1,7 +1,4 @@
-### Hi there 👋
-<div align="center">
-  <img src="https://i.imgur.com/VHBLY4I.gif" width="600" height="300"/>
-</div>
+### `guy fieri, memories fade but you were my source of strength`
 <!--
 **shokek/shokek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
